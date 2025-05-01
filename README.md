@@ -19,6 +19,9 @@ Tech leader with 20+ years shaping innovation at companies like Google, Uber, Yo
 *   **[windsurf-linear Library](https://github.com/jawnty/windsurf-linear)**
     *   *Description:* The underlying Node.js library providing a simple interface to the Linear API for the VS Code extension.
     *   *Tech:* TypeScript, Node.js, `@linear/sdk`
+*   **[LinkedIn Analyzer](https://github.com/jawnty/li-analyzer)**
+    *   *Description:* Python script to filter 1st-degree LinkedIn connections based on company market capitalization and estimated job seniority, identifying potential leads from CSV exports.
+    *   *Tech:* Python, Pandas, Fuzzy Matching (thefuzz, python-Levenshtein), CSV Processing
 
 ### 🛠️ Technical Skills:
 
