@@ -8,12 +8,11 @@ Tech leader with 20+ years shaping innovation at companies like Google, Uber, Yo
 
 ### 🔭 I’m currently working on:
 
-*   Developing productivity tools leveraging AI for email and calendar integration.
-*   **[Windsurf Linear VS Code Extension](https://github.com/jawnty/windsurf-linear-extension):** An extension to integrate Linear workflows directly into VS Code. ([View on Marketplace](https://marketplace.visualstudio.com/items?itemName=jawnty.windsurf-linear-extension))
+*   Developing productivity tools leveraging AI for email and calendar integration
 
 ### ✨ My Featured Projects:
 
-*   **[Windsurf Linear VS Code Extension](https://github.com/jawnty/windsurf-linear-extension)**
+*   **[Windsurf Linear VS Code Extension](https://github.com/jawnty/windsurf-linear-extension):** An extension to integrate Linear workflows directly into VS Code. ([View on Marketplace](https://marketplace.visualstudio.com/items?itemName=jawnty.windsurf-linear-extension))
     *   *Description:* Manage Linear issues without leaving VS Code. Features include creating, fetching, updating, and archiving issues via the Command Palette.
     *   *Tech:* TypeScript, Node.js, VS Code API, `@linear/sdk`
 *   **[windsurf-linear Library](https://github.com/jawnty/windsurf-linear)**
