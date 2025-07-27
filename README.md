@@ -10,6 +10,9 @@ Tech leader with 20+ years shaping innovation at companies like Google, Uber, Yo
 
 *   Developing productivity tools leveraging AI for email and calendar integration
 
+### Thoughts and ideas published
+* [The AI-Powered Engineer: A Strategic Playbook for LLM-Powered Software Development](https://github.com/jawnty/jawnty/blob/main/docs/LLM_powered_development.md)
+
 ### ✨ My Featured Projects:
 
 *   **[Windsurf Linear VS Code Extension](https://github.com/jawnty/windsurf-linear-extension):** An extension to integrate Linear workflows directly into VS Code. ([View on Marketplace](https://marketplace.visualstudio.com/items?itemName=jawnty.windsurf-linear-extension))
