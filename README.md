@@ -13,9 +13,6 @@ Tech leader with 20+ years shaping innovation at companies like Google, Uber, Yo
 ### Thoughts and ideas published
 * [The AI-Powered Engineer: A Strategic Playbook for LLM-Powered Software Development](https://github.com/jawnty/jawnty/blob/main/docs/LLM_powered_development.md)
 
-### Thoughts and ideas published
-* [The AI-Powered Engineer: A Strategic Playbook for LLM-Powered Software Development](https://github.com/jawnty/jawnty/blob/main/docs/LLM_powered_development.md)
-
 ### ✨ My Featured Projects:
 
 *   **[FinePrint](https://fineprint.web.app):** Snap a photo of any bill, contract, or notice and instantly get a plain-English breakdown with power questions to ask back. Privacy-first with manual PII redaction before upload.
