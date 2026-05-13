@@ -33,8 +33,6 @@ Tech leader with 20+ years shaping innovation at companies like Google, Uber, Yo
 
 ### 📂 Older Projects:
 
-A glimpse of the path here.
-
 *   **[FinePrint](https://fineprint.web.app):** Snap a photo of any bill, contract, or notice and instantly get a plain-English breakdown with power questions to ask back. Privacy-first with manual PII redaction before upload.
     *   *Tech:* React PWA, Material UI, Python/FastAPI, Google Gemini Vision, Firebase Hosting, Cloud Run
 *   **[Windsurf Linear VS Code Extension](https://github.com/jawnty/windsurf-linear-extension):** Manage Linear issues without leaving VS Code. Create, fetch, update, and archive issues via the Command Palette. ([View on Marketplace](https://marketplace.visualstudio.com/items?itemName=jawnty.windsurf-linear-extension))
