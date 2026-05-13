@@ -33,7 +33,7 @@ Tech leader with 20+ years shaping innovation at companies like Google, Uber, Yo
 
 ### 📂 Older Projects:
 
-A glimpse of the path here — these are earlier projects that show the progression into agentic coding.
+A glimpse of the path here.
 
 *   **[FinePrint](https://fineprint.web.app):** Snap a photo of any bill, contract, or notice and instantly get a plain-English breakdown with power questions to ask back. Privacy-first with manual PII redaction before upload.
     *   *Tech:* React PWA, Material UI, Python/FastAPI, Google Gemini Vision, Firebase Hosting, Cloud Run
