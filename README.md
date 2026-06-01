@@ -12,7 +12,7 @@ Tech leader with 20+ years shaping innovation at companies like Google, Uber, Yo
 *   Investing in early-stage AI, defense, and healthcare startups (W26 YC batch most recent)
 
 ### Thoughts and ideas published
-* [The AI-Powered Engineer: A Strategic Playbook for LLM-Powered Software Development](https://github.com/jawnty/jawnty/blob/main/docs/LLM_powered_development.md)
+* [Read my writing on AI, agents, and engineering at jawnty.me/blog](https://jawnty.me/blog)
 
 ### ✨ My Featured Projects:
 
