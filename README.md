@@ -28,8 +28,6 @@ Tech leader with 20+ years shaping innovation at companies like Google, Uber, Yo
     *   *Tech:* Cloud Run, multi-provider LLM APIs
 *   **[Voice Actions](https://jtuniverse.web.app/voice-actions/):** Privacy-first voice memos to structured action items. Record up to 5 minutes, get back action items, calendar events, email drafts, decisions, and people mentioned in 3-5 seconds.
     *   *Tech:* Gemini 2.5 Flash, Firebase Auth, Cloud Functions
-*   **[OpenClaw-RL Observer](https://github.com/jawnty/openclaw-rl-observer):** Real-time web dashboard for visualizing OpenClaw-RL training — rollouts, training steps, rewards, checkpoints as they happen.
-    *   *Tech:* Python, WebSockets, JS dashboards
 
 ### 📂 Older Projects:
 
