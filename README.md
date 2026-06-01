@@ -16,6 +16,10 @@ Tech leader with 20+ years shaping innovation at companies like Google, Uber, Yo
 
 ### ✨ My Featured Projects:
 
+*   **[jmem](https://github.com/jawnty/jmem):** A tiny local memory layer for coding agents — broad index, narrow injection. It indexes your existing source files, retrieves a small relevant context packet per prompt, and injects it through Codex / Claude Code `UserPromptSubmit` hooks. An npm-installed tool that keeps your files where they already live.
+    *   *Tech:* Node.js, SQLite FTS, agent hooks
+*   **[Agent Preflight](https://github.com/jawnty/agent-preflight):** Local-first CLI that scores whether an issue, spec, or decision artifact is actually ready for autonomous agent work — deterministically, with no hosted backend and zero LLM calls. It explains the evidence, generates a handoff packet, and can draft or apply a safer upgrade. Install with `npm install -g @jawnty/agent-preflight`.
+    *   *Tech:* Node.js, TypeScript, npm CLI
 *   **[FDE-in-a-Box](https://jtuniverse.web.app/fde/):** *(new, still in active development)* Self-contained sandbox for forward-deployed-engineer workflows for AI rollout — deployment, debugging, and customer-shaped iteration in one box. Designed for the FDE motion that's emerging at frontier AI labs.
     *   *Tech:* Cloud Run, Firebase Hosting
 *   **[llmeter](https://github.com/jawnty/llmeter):** Local live token-usage monitor for Claude Code and Codex. I use this daily — it reads the JSONL session logs both editors already write, stores usage in SQLite, and serves a dashboard at `127.0.0.1:4001`. No API key changes, no shell aliases, no editor wrapping. If you're paying for Claude Code or Codex and don't know where your tokens go, this fixes that.
@@ -28,10 +32,6 @@ Tech leader with 20+ years shaping innovation at companies like Google, Uber, Yo
     *   *Tech:* Cloud Run, multi-provider LLM APIs
 *   **[Voice Actions](https://jtuniverse.web.app/voice-actions/):** Privacy-first voice memos to structured action items. Record up to 5 minutes, get back action items, calendar events, email drafts, decisions, and people mentioned in 3-5 seconds.
     *   *Tech:* Gemini 2.5 Flash, Firebase Auth, Cloud Functions
-*   **[Agent Preflight](https://github.com/jawnty/agent-preflight):** Local-first CLI that scores whether an issue, spec, or decision artifact is actually ready for autonomous agent work — deterministically, with no hosted backend and zero LLM calls. It explains the evidence, generates a handoff packet, and can draft or apply a safer upgrade. Install with `npm install -g @jawnty/agent-preflight`.
-    *   *Tech:* Node.js, TypeScript, npm CLI
-*   **[jmem](https://github.com/jawnty/jmem):** A tiny local memory layer for coding agents — broad index, narrow injection. It indexes your existing source files, retrieves a small relevant context packet per prompt, and injects it through Codex / Claude Code `UserPromptSubmit` hooks. An npm-installed tool that keeps your files where they already live.
-    *   *Tech:* Node.js, SQLite FTS, agent hooks
 
 ### 📂 Older Projects:
 
