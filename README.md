@@ -47,6 +47,14 @@ Tech leader with 20+ years shaping innovation at companies like Google, Uber, Yo
 *   **[TimeLens](https://github.com/jawnty/timelens):** Transform your photos into different historical eras using AI. See yourself in the 1920s, 1950s, 1970s, 1980s, or Y2K era.
     *   *Tech:* Flutter/Dart, Google Gemini, Firebase Auth, Firebase App Distribution
 
+### 🗄️ Retired Projects:
+
+*Projects I've moved on from, kept here for posterity — each with a note on why it was retired.*
+
+*   **[Voice Actions](https://jtuniverse.web.app/voice-actions/):** Privacy-first voice memos to structured action items. Record up to 5 minutes, get back action items, calendar events, email drafts, decisions, and people mentioned in 3-5 seconds.
+    *   *Tech:* Gemini 2.5 Flash, Firebase Auth, Cloud Functions
+    *   *Retired 2026-07-13 — superseded by Specray; no active development in 90+ days.*
+
 ### 🛠️ Technical Skills:
 
 *   **Languages:** Python, JavaScript, TypeScript, Dart, Java, C++, Kotlin
