@@ -30,8 +30,8 @@ Tech leader with 20+ years shaping innovation at companies like Google, Uber, Yo
     *   *Tech:* Firebase, Gemini, vanilla JS
 *   **[Model Showdown](https://jtuniverse.web.app/model-showdown/):** Run the same prompt across multiple frontier LLMs side-by-side and compare answers, latency, and cost.
     *   *Tech:* Cloud Run, multi-provider LLM APIs
-*   **[Specray](https://github.com/jawnty/specray):** A Claude Code slash command that finds ambiguities in product specs before you build, by comparing two independent implementation plans.
-    *   *Tech:* Claude Code, LLM analysis
+*   **[Windsurf Linear Extension](https://github.com/jawnty/windsurf-linear-extension):** A VS Code extension for managing Linear issues directly within your editor, enabling seamless workflow integration.
+    *   *Tech:* TypeScript, Node.js, @linear/sdk
 
 ### 📂 Older Projects:
 
